@@ -1,0 +1,16 @@
+[
+  {
+    "Symbol": "MSFT",
+    "Name": "Microsoft Corporation",
+    "StartDate": "2024-01-01T00:00:00",
+    "EndDate": "2024-03-08T00:00:00",
+    "HistoricalData": []
+  },
+  {
+    "Symbol": "AAPL",
+    "Name": "Apple Inc",
+    "StartDate": "2024-01-01T00:00:00",
+    "EndDate": "2024-03-08T00:00:00",
+    "HistoricalData": []
+  }
+]
